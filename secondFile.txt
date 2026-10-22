@@ -1,5 +1,10 @@
+<<<<<<< HEAD
 wow
 wow2
+=======
+smth new
+very
+>>>>>>> git_2
 Line 3
 Line 4
 Line 5
